@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tax paying simulator</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="layout.css">
+    </head>
+    <body>
+        <button id="btn_work" onclick="btn_work_click()">WORK</button>
+        <button id="btn_level0" onclick="btn_level0_click()">LEVEL 0 maccas worker $12.78/click</button>
+        <button id="btn_level1" onclick="btn_level1_click()">LEVEL 1 Receptionist $15.29/click</button>
+        <button id="btn_level2" onclick="btn_level2_click()">LEVEL 2 employee $22.17/click</button>
+        <button id="btn_level3" onclick="btn_level3_click()">LEVEL 3 Chief  $29.27/click</button>
+        <button id="btn_level4" onclick="btn_level4_click()">LEVEL 4 Manager  $31.74/click</button>
+        <button id="btn_tax" onclick="btn_tax_click()">TAX PAY BUTON</button>
+        <button id="btn_prestige" onclick="btn_prestige_click()">PRESTIGE (50 payments required) WARNING WILL RESET EVERYTHING</button>
+        <button id="btn_restart" onclick="main_load()">Restart game</button>
+        <label id="label1">Pay rate</label>
+        <label id="label2">Earnings</label>
+        <input id="tb_payrate">
+        <input id="tb_earnings" value="0">
+        <input id="textBox3" value="tax payments required : 2">
+        <input id="textBox4" value="tax payments required : 5">
+        <input id="textBox5" value="tax payments required : 9">
+        <input id="textBox6" value="tax payments required : 15">
+        <input id="textBox7" value="tax payments required : 22">
+        <input id="tb_tax" value="test">
+        <label id="label3"></label>
+
+        <script src="index.js"></script>
+    </body>
+</html>
