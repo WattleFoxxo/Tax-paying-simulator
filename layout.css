@@ -1,0 +1,263 @@
+
+#label1 {
+    position: fixed;
+
+    left: 11px;
+    top: 23px;
+
+    width: 50px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#label2 {
+    position: fixed;
+
+    left: 11px;
+    top: 53px;
+
+    width: 50px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#tb_payrate {
+    position: fixed;
+
+    left: 65px;
+    top: 21px;
+
+    width: 145px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#tb_earnings {
+    position: fixed;
+
+    left: 65px;
+    top: 51px;
+
+    width: 145px;
+    height: 17px;
+
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_work {
+    position: fixed;
+
+    left: 31px;
+    top: 90px;
+
+    width: 195px;
+    height: 347px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_level0 {
+    position: fixed;
+
+    left: 313px;
+    top: 15px;
+
+    width: 204px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_level1 {
+    position: fixed;
+
+    left: 313px;
+    top: 55px;
+
+    width: 204px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_level2 {
+    position: fixed;
+
+    left: 313px;
+    top: 93px;
+
+    width: 204px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_level3 {
+    position: fixed;
+
+    left: 313px;
+    top: 135px;
+
+    width: 204px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_level4 {
+    position: fixed;
+
+    left: 313px;
+    top: 173px;
+
+    width: 204px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_tax {
+    position: fixed;
+
+    left: 343px;
+    top: 226px;
+
+    width: 137px;
+    height: 78px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#textBox3 {
+    position: fixed;
+
+    left: 534px;
+    top: 16px;
+
+    width: 147px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#textBox4 {
+    position: fixed;
+
+    left: 534px;
+    top: 56px;
+
+    width: 147px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#textBox5 {
+    position: fixed;
+
+    left: 534px;
+    top: 94px;
+
+    width: 147px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#textBox6 {
+    position: fixed;
+
+    left: 534px;
+    top: 136px;
+
+    width: 147px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#textBox7 {
+    position: fixed;
+
+    left: 534px;
+    top: 174px;
+
+    width: 147px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_prestige {
+    position: fixed;
+
+    left: 540px;
+    top: 226px;
+
+    width: 141px;
+    height: 78px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#btn_restart {
+    position: fixed;
+
+    left: 540px;
+    top: 306px;
+
+    width: 141px;
+    height: 23px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#tb_tax {
+    position: fixed;
+
+    left: 343px;
+    top: 306px;
+
+    width: 131px;
+    height: 17px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
+}
+
+#label3 {
+    position: fixed;
+
+    left: 342px;
+    top: 357px;
+
+    width: 500px;
+    height: 40px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+
+    color: #f00;
+}
