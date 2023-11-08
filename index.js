@@ -1,5 +1,5 @@
-/*                     Ported by wattlefox                      */
-/* i tried my best to keep the code as authentic as possable :( */
+/*     Original by wexxov     */
+/*    Ported by wattlefoxv    */
 
 var earnings;
 var pay;
@@ -37,6 +37,13 @@ function main_load() {
     timer = false;
 
     btn_tax.classList.remove("bg_red");
+    btn_level0.classList.remove("bg_red");
+    btn_level1.classList.remove("bg_red");
+    btn_level2.classList.remove("bg_red");
+    btn_level3.classList.remove("bg_red");
+    btn_level4.classList.remove("bg_red");
+
+    clearTimeout(myTimeout);
 }
 
 function btn_work_click() {
@@ -140,8 +147,12 @@ function start_timer() {
         setTimeout(function () {
             tax_time = true;
             btn_tax.classList.add("bg_red");
-        }, 5000);
+        }, 6000);
     }
 }
+
+document.addEventListener('contextmenu', event => {
+    event.preventDefault();
+});
 
 main_load();

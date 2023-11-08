@@ -146,10 +146,10 @@
 #textBox3 {
     position: fixed;
 
-    left: 534px;
+    left: 532px;
     top: 16px;
 
-    width: 147px;
+    width: 151px;
     height: 17px;
 
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -159,10 +159,10 @@
 #textBox4 {
     position: fixed;
 
-    left: 534px;
+    left: 532px;
     top: 56px;
 
-    width: 147px;
+    width: 151px;
     height: 17px;
 
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -172,10 +172,10 @@
 #textBox5 {
     position: fixed;
 
-    left: 534px;
+    left: 532px;
     top: 94px;
 
-    width: 147px;
+    width: 151px;
     height: 17px;
 
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -185,10 +185,10 @@
 #textBox6 {
     position: fixed;
 
-    left: 534px;
+    left: 532px;
     top: 136px;
 
-    width: 147px;
+    width: 151px;
     height: 17px;
 
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -198,10 +198,10 @@
 #textBox7 {
     position: fixed;
 
-    left: 534px;
+    left: 532px;
     top: 174px;
 
-    width: 147px;
+    width: 151px;
     height: 17px;
 
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -260,4 +260,14 @@
     font-size: 20pt;
 
     color: #f00;
+}
+
+#credit {
+    position: fixed;
+
+    left: 705px;
+    top: 15px;
+
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 9pt;
 }
